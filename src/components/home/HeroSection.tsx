@@ -41,7 +41,7 @@ const HeroSection = () => {
                 Start Shopping
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-              <Button variant="outline" size="lg" className="border-white text-white hover:bg-white/10">
+              <Button variant="outline" size="lg" className="border-white bg-white/20 text-black/20 hover:bg-white/10">
                 Become a Vendor
               </Button>
             </div>
